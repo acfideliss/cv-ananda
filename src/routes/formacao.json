@@ -1,22 +1,17 @@
 [
     {
-        "nome": "UPE",
-        "range": "02/2021 - ATUAL",
-        "desc": "Doutorado acadêmico"
+        "nome": "Especialização em Gestão de Marketing",
+        "range": "Out 2019 - ",
+        "desc" : "Faculdade Frassinetti do Recife - FAFIRE"
     },
     {
-        "nome": "UFRPE",
-        "range": "01/2016 - 01/2018",
-        "desc": "Mestrado acadêmico"
+        "nome": "Tecnologia em Gestão de Turismo",
+        "range": "Ago 2017 - Out 2020",
+        "desc": "Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - IFPE."
     },
     {
-        "nome": "IFPE",
-        "range": "01/2018 - 01/2020",
-        "desc": "Especialização em TICs"
-    },
-    {
-        "nome": "FACOL",
-        "range": "01/2010 - 12/2013",
-        "desc": "Gruduação em SI"
+        "nome": "Bacharelado em Administração",
+        "range": "Ago 2017 - Out 2020",
+        "desc": "Universidade Federal Rural de Pernambuco - UFRPE."
     }
 ]

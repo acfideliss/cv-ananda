@@ -1,14 +1,50 @@
 [
     {
-        "nome": "Javascript",
+        "nome": "Digitação",
+        "range": "90%"
+    },
+    {
+        "nome": "Informática",
+        "range": "60%"
+    },
+    {
+        "nome": "Linux",
         "range": "70%"
     },
     {
-        "nome": "HTML",
+        "nome": "Pacote Office",
         "range": "80%"
     },
     {
-        "nome": "CSS",
+        "nome": "Outlook",
         "range": "90%"
+    },
+    {
+        "nome": "AutoCAD",
+        "range": "85%"
+    },
+    {
+        "nome": "SketchUp",
+        "range": "85%"
+    },
+    {
+        "nome": "Gimp",
+        "range": "80%"
+    },
+    {
+        "nome": "Canva",
+        "range": "95%"
+    },
+    {
+        "nome": "Mídias Digitais",
+        "range": "80%"
+    },
+    {
+        "nome": "Marketing Turístico",
+        "range": "70%"
+    },
+    {
+        "nome": "Roteiros Turísticos",
+        "range": "85%"
     }
 ]
