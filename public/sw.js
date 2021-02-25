@@ -11,7 +11,7 @@ this.addEventListener('install', function(event) {
                 '../css/materialdesignicons.css',
                 '../css/materialdesignicons.css.map',
                  // IMAGENS
-                '../assets/hbsm.jpg',
+                '../assets/ananda-fidelis.jpg',
                 '../assets/logo.png',
                 '../assets/favicon.ico',
 
